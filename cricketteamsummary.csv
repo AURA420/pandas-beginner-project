@@ -1,0 +1,15 @@
+team_name,total_matches_played,"('toss_details', 'total_toss_won')","('toss_details', 'elected_to_bat')","('toss_details', 'elected_to_field')","('match_outcome', 'total_win')","('match_outcome', 'win_by_field')","('match_outcome', 'win_by_bat')"
+Chennai Super Kings,131,66,44.0,22,79,29,50.0
+Deccan Chargers,75,43,24.0,19,29,15,14.0
+Delhi Daredevils,147,72,26.0,46,62,34,28.0
+Gujarat Lions,30,15,1.0,14,13,11,2.0
+Kings XI Punjab,148,68,25.0,43,70,50,20.0
+Kochi Tuskers Kerala,14,8,3.0,5,6,6,0.0
+Kolkata Knight Riders,148,78,30.0,48,77,43,34.0
+Mumbai Indians,157,85,40.0,45,92,51,41.0
+Pune Warriors,46,20,11.0,9,12,3,9.0
+Rajasthan Royals,118,63,28.0,35,63,33,30.0
+Rising Pune Supergiant,16,6,0.0,6,10,10,0.0
+Rising Pune Supergiants,14,7,3.0,4,5,3,2.0
+Royal Challengers Bangalore,152,70,20.0,50,73,47,26.0
+Sunrisers Hyderabad,76,35,18.0,17,42,26,16.0
